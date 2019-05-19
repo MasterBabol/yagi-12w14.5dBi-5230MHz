@@ -1,0 +1,17 @@
+None
+¡÷:-75dBm~-68dBm
+ª°:-89dBm~-82dBm
+∫∏:-89dBm~-86dBm
+√ :-90dBm~-87dBm
+
+Provided antenna 5dBi
+¡÷:-47dBm~-41dBm
+ª°:-76dBm~-66dBm
+∫∏:-80dBm~-78dBm
+√ :-75dBm~-68dBm
+
+Yagi 14.5dBi
+¡÷:-63dBm~-58dBm
+ª°:-88dBm~-86dBm
+∫∏:-88dBm~-86dBm
+√ :-89dBm~-87dBm

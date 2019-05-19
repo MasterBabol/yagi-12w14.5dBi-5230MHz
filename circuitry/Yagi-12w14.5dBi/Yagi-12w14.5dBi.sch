@@ -1,0 +1,149 @@
+EESchema Schematic File Version 4
+LIBS:Yagi-12w14.5dBi-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Yagi-12w14:bed UR0
+U 1 1 5CB2C646
+P 900 800
+F 0 "UR0" H 900 975 50  0000 C CNN
+F 1 "bed" H 900 884 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 900 850 50  0001 C CNN
+F 3 "" H 900 850 50  0001 C CNN
+	1    900  800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UV0
+U 1 1 5CB2E254
+P 900 1150
+F 0 "UV0" H 900 1325 50  0000 C CNN
+F 1 "bed" H 900 1234 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 900 1200 50  0001 C CNN
+F 3 "" H 900 1200 50  0001 C CNN
+	1    900  1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD0
+U 1 1 5CB2E899
+P 1550 800
+F 0 "UD0" H 1550 975 50  0000 C CNN
+F 1 "bed" H 1550 884 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 850 50  0001 C CNN
+F 3 "" H 1550 850 50  0001 C CNN
+	1    1550 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD1
+U 1 1 5CB2EF4E
+P 1550 1150
+F 0 "UD1" H 1550 1325 50  0000 C CNN
+F 1 "bed" H 1550 1234 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 1200 50  0001 C CNN
+F 3 "" H 1550 1200 50  0001 C CNN
+	1    1550 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD2
+U 1 1 5CB2F163
+P 1550 1500
+F 0 "UD2" H 1550 1675 50  0000 C CNN
+F 1 "bed" H 1550 1584 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 1550 50  0001 C CNN
+F 3 "" H 1550 1550 50  0001 C CNN
+	1    1550 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD3
+U 1 1 5CB32A53
+P 1550 1850
+F 0 "UD3" H 1550 2025 50  0000 C CNN
+F 1 "bed" H 1550 1934 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 1900 50  0001 C CNN
+F 3 "" H 1550 1900 50  0001 C CNN
+	1    1550 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD4
+U 1 1 5CB32A59
+P 1550 2200
+F 0 "UD4" H 1550 2375 50  0000 C CNN
+F 1 "bed" H 1550 2284 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 2250 50  0001 C CNN
+F 3 "" H 1550 2250 50  0001 C CNN
+	1    1550 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD5
+U 1 1 5CB32A5F
+P 1550 2550
+F 0 "UD5" H 1550 2725 50  0000 C CNN
+F 1 "bed" H 1550 2634 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 2600 50  0001 C CNN
+F 3 "" H 1550 2600 50  0001 C CNN
+	1    1550 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD6
+U 1 1 5CB334C6
+P 1550 2900
+F 0 "UD6" H 1550 3075 50  0000 C CNN
+F 1 "bed" H 1550 2984 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 2950 50  0001 C CNN
+F 3 "" H 1550 2950 50  0001 C CNN
+	1    1550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD7
+U 1 1 5CB334CC
+P 1550 3250
+F 0 "UD7" H 1550 3425 50  0000 C CNN
+F 1 "bed" H 1550 3334 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 3300 50  0001 C CNN
+F 3 "" H 1550 3300 50  0001 C CNN
+	1    1550 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD8
+U 1 1 5CB334D2
+P 1550 3600
+F 0 "UD8" H 1550 3775 50  0000 C CNN
+F 1 "bed" H 1550 3684 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 3650 50  0001 C CNN
+F 3 "" H 1550 3650 50  0001 C CNN
+	1    1550 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Yagi-12w14:bed UD9
+U 1 1 5CB33D64
+P 1550 3950
+F 0 "UD9" H 1550 4125 50  0000 C CNN
+F 1 "bed" H 1550 4034 50  0000 C CNN
+F 2 "Yagi-12w14:bedfoot" H 1550 4000 50  0001 C CNN
+F 3 "" H 1550 4000 50  0001 C CNN
+	1    1550 3950
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

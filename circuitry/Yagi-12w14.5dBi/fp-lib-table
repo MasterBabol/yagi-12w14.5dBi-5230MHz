@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Yagi-12w14)(type KiCad)(uri ${KIPRJMOD}/Yagi-12w14.pretty)(options "")(descr ""))
+)
